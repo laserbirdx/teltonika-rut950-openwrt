@@ -2,7 +2,12 @@
 
 # OpenWrt on Teltonika RUT950 (RUT955 image)
 
-![OpenWrt: 25.12.5 (ath79)](https://img.shields.io/badge/OpenWrt-25.12.5%20(ath79)-00B5E2?logo=openwrt&logoColor=white) ![SoC: Qualcomm AR9344](https://img.shields.io/badge/SoC-Qualcomm%20AR9344-3253DC?logo=qualcomm&logoColor=white) ![profile: rut955-h7v3c0](https://img.shields.io/badge/profile-rut955--h7v3c0-success) ![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenWrt-25.12.5%20%28ath79%29-00B5E2?logo=openwrt&logoColor=white" alt="OpenWrt: 25.12.5 (ath79)" />
+  <img src="https://img.shields.io/badge/SoC-Qualcomm%20AR9344-3253DC?logo=qualcomm&logoColor=white" alt="SoC: Qualcomm AR9344" />
+  <img src="https://img.shields.io/badge/profile-rut955--h7v3c0-success" alt="profile: rut955-h7v3c0" />
+  <img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="license: CC BY 4.0" />
+</p>
 
 Install guide for official OpenWrt 25.12.5 on the Teltonika RUT950 (Qualcomm Atheros AR9344,
 16 MiB NOR flash, built-in LTE modem). OpenWrt has no RUT950 profile. The RUT950 uses the same
